@@ -1,0 +1,7 @@
+{
+    "launch": {
+        "editor.parameterHints.enabled": false
+        "configurations": [],
+        "compounds": []
+    }
+}
