@@ -1,8 +1,8 @@
 #Test calculator
 
-number1 = float(input('Masukan angka pertama : '))
-number2 = float(input('Masukann angka kedua : '))
+nilai1 = float(input('Masukan angka pertama : '))
+nilai2 = float(input('Masukann angka kedua : '))
 
-hasil = number1 * number2
+hasil = nilai1 * nilai2
 
-print('Hasil dari perkalian',number1,'x',number2,'=',hasil)
+print('Hasil dari perkalian',nilai1,'x',nilai2,'=',hasil)
