@@ -1,23 +1,36 @@
 #Test assigement
 
-#1
-a = 120
+#Sample
+a = 14
 
-print(a,'=')
+#Pertambahan
+a += 12
 
-#2
+print('hasil dari +a =',a)
 
-a -= 12
-print(a,'=')
+#Perkurangan
+a -= 18
 
-#3
-a *= 4
-print(a,'=')
+print('hasil dari -a =',a)
 
-#3
-a += 4
-print(a,'=')
+#Perkalian
+a *= 15
 
-#4
-a /= 24
-print(a,'=')
+print('Hasil dari *a =',a)
+
+#Pembagian
+a /= 17
+
+print('Hasil dari /a =',a)
+
+#Perpangkatan
+a **= 26
+
+print('Hasil dari **a =',a)
+
+#Modulus
+a %= 14
+
+print('Hasil dari %a =',a)
+
+#Hitungan yang di tanda kurung di dahulukan > ('test')
