@@ -48,3 +48,17 @@ print('C\\Ely\\Heart\\Love\\Nothing...')
 print('===Tab===')
 
 print('Elysia is\t my wife <3')
+
+#Backspace use \b for using like "TestHehe"
+print('===Backspace===')
+
+print('Elysi \ba, is my wife')
+
+#Newline use \n for using like "Test,(spasi) test"
+print('===Newline===')
+
+print('Elysi is my, \nwife.') #Line feed > Unix,Macos, Linux
+
+print('Elysi is my, \rwife.') #Carriage return > Commodore,Acorn,Lisp
+
+print('Elysi is my, \r\nwife.') #Line feed Carriage return > Windows
